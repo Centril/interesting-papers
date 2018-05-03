@@ -16,4 +16,7 @@ If you want to add a paper,
 just create a new issue with the paper's title and include the link
 somewhere on the issue.
 
+If you have the time, please also provide some DOI or bibtex so that
+it's easier to cite the paper and have a permanent reference for it.
+
 @Centril will eventually create tags based on the papers you've all added.
