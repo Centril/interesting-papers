@@ -6,7 +6,7 @@ about: Paper template
 
 Link to paper
 
-[DOI (insert DOI here)](https://dl.acm.org/citation.cfm?id=)
+[DOI (insert DOI here)](https://doi.org/)
 
 ## Abstract
 
