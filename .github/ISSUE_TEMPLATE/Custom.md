@@ -8,6 +8,6 @@ Link to paper
 
 [DOI (insert DOI here)](https://dl.acm.org/citation.cfm?id=)
 
-### Abstract
+## Abstract
 
 Insert the abstract from the paper.
