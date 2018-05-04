@@ -6,7 +6,7 @@ about: Paper template
 
 Link to paper
 
-[DOI (insert DOI here)](https://doi.org/)
+https://doi.org/insert_doi_here
 
 ## Abstract
 
